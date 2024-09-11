@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
 
-The scafolding for this project is based on:<br />
+The scaffolding for this project is based on:<br />
 https://albertobasalo.medium.com/file-and-folder-structure-for-angular-applications-3130efc582e3
 
 The implementation of i18n translations with @ngx-translate for Angular18 is based on:<br />
