@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
 
+The scafolding for this project is based on:
+  https://albertobasalo.medium.com/file-and-folder-structure-for-angular-applications-3130efc582e3
+The implementation of i18n translations with @ngx-translate for Angular18 is based on:
+  https://github.com/ngx-translate/core/issues/1485
+  https://github.com/mzeromski/angular-starter/tree/main/src
+
+For more information, do not hesitate to write to me at amarin@gmail.com or via Slack (Alejandro Marín Oliva)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
